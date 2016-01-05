@@ -1,0 +1,5 @@
+Sample.MainActivity;sample.MainActivity
+AppMsg.AppMsg;appmsg.AppMsg
+AppMsg.MsgManager;appmsg.MsgManager
+AppMsg.OutAnimationListener;appmsg.OutAnimationListener
+AppMsg.ReleaseCallbacksIcs;appmsg.ReleaseCallbacksIcs

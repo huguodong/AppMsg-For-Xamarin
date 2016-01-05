@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\Sample\bin\Debug\Sample.dll
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\Sample\bin\Debug\Sample.pdb
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\Sample\bin\Debug\Sample.dll.mdb
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\Sample\bin\Debug\Sample.Sample.apk
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\Sample\bin\Debug\Sample.Sample-Signed.apk
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\Sample\bin\Debug\AppMsg.dll
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\Sample\bin\Debug\AppMsg.pdb
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\Sample\bin\Debug\AppMsg.dll.mdb
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\Sample\obj\Debug\Sample.dll
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\Sample\obj\Debug\Sample.pdb
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\Sample\obj\Debug\android\bin\Sample.Sample.apk
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\Sample\obj\Debug\res\layout\main.xml
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\Sample\obj\Debug\res\values\strings.xml
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\Sample\obj\Debug\res\drawable\icon.png
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\Sample\obj\Debug\R.cs.flag
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\Sample\obj\Debug\uploadflags.txt

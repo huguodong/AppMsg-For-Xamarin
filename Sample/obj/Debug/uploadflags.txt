@@ -1,0 +1,4 @@
+emulator-5556
+emulator-5556
+127.0.0.1:5555
+emulator-5556

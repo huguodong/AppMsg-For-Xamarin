@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\AppMsg\bin\Debug\AppMsg.dll
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\AppMsg\bin\Debug\AppMsg.pdb
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\AppMsg\bin\Debug\AppMsg.dll.mdb
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\AppMsg\bin\Debug\AppMsg.AppMsg.apk
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\AppMsg\bin\Debug\AppMsg.AppMsg-Signed.apk
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\AppMsg\obj\Debug\AppMsg.dll
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\AppMsg\obj\Debug\AppMsg.pdb
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\AppMsg\obj\Debug\android\bin\AppMsg.AppMsg.apk
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\AppMsg\obj\Debug\res\values\strings.xml
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\AppMsg\obj\Debug\res\layout\app_msg.xml
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\AppMsg\obj\Debug\res\values\colors.xml
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\AppMsg\obj\Debug\R.cs.flag
+C:\Users\Administrator\Desktop\AppMsg-For-Xamarin-Android-master\AppMsg\obj\Debug\uploadflags.txt
